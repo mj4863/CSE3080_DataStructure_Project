@@ -1,4 +1,4 @@
-# CSE3080 과제 모음
+# CSE3080 과제
 
 이 저장소에는 Data Structures 과목(CSE3080) 과제 1(문자열 패턴 매칭)과 과제 2(최소 신장 트리) 구현 코드가 포함되어 있다.
 
@@ -17,7 +17,7 @@
 └── cse3080_hw2_학번
     ├── fp1.c
     ├── Makefile
-    └── input_large.txt (예시)
+    └── input_large.txt
 ```
 
 ## 과제 1: 문자열 패턴 매칭
@@ -53,6 +53,3 @@
   ./fp1 input.txt
   ```
 
-## 라이선스
-
-MIT License
