@@ -1,0 +1,6 @@
+﻿  hw2.c
+C:\Users\mj486\Desktop\민준\서강대\3-2학기\자료구조\hw2\hw2\hw2.c(14,13): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\mj486\Desktop\민준\서강대\3-2학기\자료구조\hw2\hw2\hw2.c(26,13): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\mj486\Desktop\민준\서강대\3-2학기\자료구조\hw2\hw2\hw2.c(27,13): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\mj486\Desktop\민준\서강대\3-2학기\자료구조\hw2\hw2\hw2.c(57,14): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  hw2.vcxproj -> C:\Users\mj486\Desktop\민준\서강대\3-2학기\자료구조\hw2\hw2\x64\Debug\hw2.exe
